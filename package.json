@@ -1,0 +1,22 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "a graphql practice project",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "graphql",
+    "apollo-server"
+  ],
+  "author": "Hafizul Haque <hafizul.cse.cuet@gmail.com>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
